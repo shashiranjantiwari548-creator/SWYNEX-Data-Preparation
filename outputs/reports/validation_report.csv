@@ -1,0 +1,8 @@
+validation,result,details
+Required columns,PASS,All expected columns are present
+Duplicate rows,PASS,0 duplicate rows found
+Unique show IDs,PASS,0 duplicate show IDs found
+Required fields,PASS,0 missing values in required fields
+Release year,PASS,0 invalid values found
+date_added,PASS,10 dates remain unknown and are represented as missing
+Important text fields,PASS,0 empty text values found

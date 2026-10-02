@@ -1,0 +1,13 @@
+metric,value,action
+Original rows,8807,Initial dataset size
+Original columns,12,Initial dataset column count
+Duplicate rows,0,Removed exact duplicates if present
+Missing director handled,Not Specified,Filled missing categorical/text values
+Missing cast handled,Not Specified,Filled missing categorical/text values
+Missing country handled,Not Specified,Filled missing categorical/text values
+Missing rating handled,Not Specified,Filled missing categorical values
+Missing duration handled,Not Specified,Filled missing categorical values
+date_added type,datetime64[us],Converted to datetime
+release_year type,Int64,Converted to numeric nullable integer
+Final rows,8807,Cleaned dataset
+Final columns,12,Cleaned dataset
